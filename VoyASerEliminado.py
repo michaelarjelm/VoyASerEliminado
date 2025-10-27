@@ -1,0 +1,1 @@
+print("Odio al profe de POO")
